@@ -1,5 +1,5 @@
 # Skills.sh Recommended Stack Installer for Windows
-# Usage: irm https://raw.githubusercontent.com/MarkChrisE2091/Agents-Skills/main/install.ps1 | iex
+# Usage: irm https://raw.githubusercontent.com/MarkChrisE2091/Agent-Skills/main/install.ps1 | iex
 
 $skills = @(
   @{ repo = "https://github.com/vercel-labs/skills";                    skill = "find-skills" },

@@ -9,13 +9,13 @@ Install the recommended skill stack with a single command.
 **Windows (PowerShell):**
 
 ```powershell
-irm https://raw.githubusercontent.com/MarkChrisE2091/Agents-Skills/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/MarkChrisE2091/Agent-Skills/main/install.ps1 | iex
 ```
 
 **macOS / Linux:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/MarkChrisE2091/Agents-Skills/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/MarkChrisE2091/Agent-Skills/main/install.sh | bash
 ```
 
 ---

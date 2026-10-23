@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Skills.sh Recommended Stack Installer for macOS / Linux
-# Usage: curl -fsSL https://raw.githubusercontent.com/MarkChrisE2091/Agents-Skills/main/install.sh | bash
+# Usage: curl -fsSL https://raw.githubusercontent.com/MarkChrisE2091/Agent-Skills/main/install.sh | bash
 
 set -e
 
