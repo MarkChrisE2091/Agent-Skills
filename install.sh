@@ -8,6 +8,7 @@ SKILLS=(
   "https://github.com/vercel-labs/skills|find-skills"
   "https://github.com/obra/superpowers|brainstorming"
   "https://github.com/obra/superpowers|writing-plans"
+  "https://github.com/mattpocock/skills|grilling"
   "https://github.com/anthropics/skills|frontend-design"
   "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill|ui-ux-pro-max"
   "https://github.com/vercel-labs/agent-skills|vercel-react-best-practices"

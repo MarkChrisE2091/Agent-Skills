@@ -31,6 +31,7 @@ npx skills add https://github.com/vercel-labs/skills --skill find-skills
 # 2. Brainstorm & Planning
 npx skills add https://github.com/obra/superpowers --skill brainstorming
 npx skills add https://github.com/obra/superpowers --skill writing-plans
+npx skills add https://github.com/mattpocock/skills --skill grilling
 
 # 3. Design
 npx skills add https://github.com/anthropics/skills --skill frontend-design
@@ -63,6 +64,7 @@ npx skills add https://github.com/github/awesome-copilot --skill git-commit
 | Anthropic | `anthropics/skills` | [skills.sh](https://skills.sh/anthropics/skills) |
 | Anthropic | `anthropics/claude-code` | [skills.sh](https://skills.sh/anthropics/claude-code) |
 | Obra | `obra/superpowers` | [skills.sh](https://skills.sh/obra/superpowers) |
+| Matt Pocock | `mattpocock/skills` | [skills.sh](https://skills.sh/mattpocock/skills) |
 | Next Level Builder | `nextlevelbuilder/ui-ux-pro-max-skill` | [skills.sh](https://skills.sh/nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max) |
 | Unicodeveloper | `unicodeveloper/shannon` | [skills.sh](https://skills.sh/unicodeveloper/shannon) |
 | Corey Haines | `coreyhaines31/marketingskills` | [skills.sh](https://skills.sh/coreyhaines31/marketingskills) |
@@ -123,9 +125,10 @@ npx skills add anthropics/claude-code    --skill '*' -a <agent> -y
 
 # Community
 npx skills add obra/superpowers                     --skill '*'     -a <agent> -y
+npx skills add mattpocock/skills                    --skill grilling -a <agent> -y
 npx skills add nextlevelbuilder/ui-ux-pro-max-skill --skill '*'     -a <agent> -y
 npx skills add unicodeveloper/shannon               --skill shannon -a <agent> -y
 npx skills add coreyhaines31/marketingskills        --skill '*'     -a <agent> -y
 ```
 
-> **Note:** `unicodeveloper/shannon` uses `--skill shannon` (named skill) instead of `--skill '*'` (wildcard).
+> **Note:** `unicodeveloper/shannon` and `mattpocock/skills` use a named skill (`--skill shannon`, `--skill grilling`) instead of `--skill '*'` (wildcard).

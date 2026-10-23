@@ -5,6 +5,7 @@ $skills = @(
   @{ repo = "https://github.com/vercel-labs/skills";                    skill = "find-skills" },
   @{ repo = "https://github.com/obra/superpowers";                      skill = "brainstorming" },
   @{ repo = "https://github.com/obra/superpowers";                      skill = "writing-plans" },
+  @{ repo = "https://github.com/mattpocock/skills";                     skill = "grilling" },
   @{ repo = "https://github.com/anthropics/skills";                     skill = "frontend-design" },
   @{ repo = "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"; skill = "ui-ux-pro-max" },
   @{ repo = "https://github.com/vercel-labs/agent-skills";              skill = "vercel-react-best-practices" },
